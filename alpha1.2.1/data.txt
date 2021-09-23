@@ -1,0 +1,26 @@
+5
+100 1 30 10 a's_capital
+0
+0
+unknow a dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 10 ab's_capital
+0
+0
+unknow ab dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 10 abc's_capital
+0
+0
+unknow abc dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 10 abcd's_capital
+0
+0
+unknow abcd dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 10 abcde's_capital
+0
+0
+unknow abcde dfshjsduewisda433425)(A*D&DS)
+0 50

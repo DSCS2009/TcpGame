@@ -1,0 +1,501 @@
+100
+100 1 30 10 yy-1's_capital
+0
+0
+unknow yy-1 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 210 10 yy-10's_capital
+0
+0
+unknow yy-10 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 10 50 yy-100's_capital
+0
+0
+unknow yy-100 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 230 10 yy-11's_capital
+0
+0
+unknow yy-11 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 250 10 yy-12's_capital
+0
+0
+unknow yy-12 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 270 10 yy-13's_capital
+0
+0
+unknow yy-13 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 290 10 yy-14's_capital
+0
+0
+unknow yy-14 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 310 10 yy-15's_capital
+0
+0
+unknow yy-15 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 330 10 yy-16's_capital
+0
+0
+unknow yy-16 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 350 10 yy-17's_capital
+0
+0
+unknow yy-17 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 370 10 yy-18's_capital
+0
+0
+unknow yy-18 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 390 10 yy-19's_capital
+0
+0
+unknow yy-19 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 10 yy-2's_capital
+0
+0
+unknow yy-2 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 410 10 yy-20's_capital
+0
+0
+unknow yy-20 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 430 10 yy-21's_capital
+0
+0
+unknow yy-21 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 450 10 yy-22's_capital
+0
+0
+unknow yy-22 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 470 10 yy-23's_capital
+0
+0
+unknow yy-23 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 490 10 yy-24's_capital
+0
+0
+unknow yy-24 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 510 10 yy-25's_capital
+0
+0
+unknow yy-25 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 530 10 yy-26's_capital
+0
+0
+unknow yy-26 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 550 10 yy-27's_capital
+0
+0
+unknow yy-27 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 570 10 yy-28's_capital
+0
+0
+unknow yy-28 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 590 10 yy-29's_capital
+0
+0
+unknow yy-29 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 10 yy-3's_capital
+0
+0
+unknow yy-3 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 610 10 yy-30's_capital
+0
+0
+unknow yy-30 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 630 10 yy-31's_capital
+0
+0
+unknow yy-31 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 650 10 yy-32's_capital
+0
+0
+unknow yy-32 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 670 10 yy-33's_capital
+0
+0
+unknow yy-33 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 690 10 yy-34's_capital
+0
+0
+unknow yy-34 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 710 10 yy-35's_capital
+0
+0
+unknow yy-35 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 730 10 yy-36's_capital
+0
+0
+unknow yy-36 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 750 10 yy-37's_capital
+0
+0
+unknow yy-37 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 770 10 yy-38's_capital
+0
+0
+unknow yy-38 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 790 10 yy-39's_capital
+0
+0
+unknow yy-39 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 10 yy-4's_capital
+0
+0
+unknow yy-4 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 810 10 yy-40's_capital
+0
+0
+unknow yy-40 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 830 10 yy-41's_capital
+0
+0
+unknow yy-41 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 850 10 yy-42's_capital
+0
+0
+unknow yy-42 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 870 10 yy-43's_capital
+0
+0
+unknow yy-43 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 890 10 yy-44's_capital
+0
+0
+unknow yy-44 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 910 10 yy-45's_capital
+0
+0
+unknow yy-45 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 930 10 yy-46's_capital
+0
+0
+unknow yy-46 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 950 10 yy-47's_capital
+0
+0
+unknow yy-47 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 970 10 yy-48's_capital
+0
+0
+unknow yy-48 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 990 10 yy-49's_capital
+0
+0
+unknow yy-49 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 10 yy-5's_capital
+0
+0
+unknow yy-5 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 10 30 yy-50's_capital
+0
+0
+unknow yy-50 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 30 30 yy-51's_capital
+0
+0
+unknow yy-51 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 30 yy-52's_capital
+0
+0
+unknow yy-52 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 30 yy-53's_capital
+0
+0
+unknow yy-53 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 30 yy-54's_capital
+0
+0
+unknow yy-54 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 30 yy-55's_capital
+0
+0
+unknow yy-55 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 130 30 yy-56's_capital
+0
+0
+unknow yy-56 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 150 30 yy-57's_capital
+0
+0
+unknow yy-57 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 170 30 yy-58's_capital
+0
+0
+unknow yy-58 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 190 30 yy-59's_capital
+0
+0
+unknow yy-59 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 130 10 yy-6's_capital
+0
+0
+unknow yy-6 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 210 30 yy-60's_capital
+0
+0
+unknow yy-60 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 230 30 yy-61's_capital
+0
+0
+unknow yy-61 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 250 30 yy-62's_capital
+0
+0
+unknow yy-62 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 270 30 yy-63's_capital
+0
+0
+unknow yy-63 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 290 30 yy-64's_capital
+0
+0
+unknow yy-64 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 310 30 yy-65's_capital
+0
+0
+unknow yy-65 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 330 30 yy-66's_capital
+0
+0
+unknow yy-66 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 350 30 yy-67's_capital
+0
+0
+unknow yy-67 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 370 30 yy-68's_capital
+0
+0
+unknow yy-68 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 390 30 yy-69's_capital
+0
+0
+unknow yy-69 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 150 10 yy-7's_capital
+0
+0
+unknow yy-7 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 410 30 yy-70's_capital
+0
+0
+unknow yy-70 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 430 30 yy-71's_capital
+0
+0
+unknow yy-71 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 450 30 yy-72's_capital
+0
+0
+unknow yy-72 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 470 30 yy-73's_capital
+0
+0
+unknow yy-73 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 490 30 yy-74's_capital
+0
+0
+unknow yy-74 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 510 30 yy-75's_capital
+0
+0
+unknow yy-75 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 530 30 yy-76's_capital
+0
+0
+unknow yy-76 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 550 30 yy-77's_capital
+0
+0
+unknow yy-77 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 570 30 yy-78's_capital
+0
+0
+unknow yy-78 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 590 30 yy-79's_capital
+0
+0
+unknow yy-79 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 170 10 yy-8's_capital
+0
+0
+unknow yy-8 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 610 30 yy-80's_capital
+0
+0
+unknow yy-80 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 630 30 yy-81's_capital
+0
+0
+unknow yy-81 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 650 30 yy-82's_capital
+0
+0
+unknow yy-82 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 670 30 yy-83's_capital
+0
+0
+unknow yy-83 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 690 30 yy-84's_capital
+0
+0
+unknow yy-84 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 710 30 yy-85's_capital
+0
+0
+unknow yy-85 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 730 30 yy-86's_capital
+0
+0
+unknow yy-86 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 750 30 yy-87's_capital
+0
+0
+unknow yy-87 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 770 30 yy-88's_capital
+0
+0
+unknow yy-88 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 790 30 yy-89's_capital
+0
+0
+unknow yy-89 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 190 10 yy-9's_capital
+0
+0
+unknow yy-9 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 810 30 yy-90's_capital
+0
+0
+unknow yy-90 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 830 30 yy-91's_capital
+0
+0
+unknow yy-91 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 850 30 yy-92's_capital
+0
+0
+unknow yy-92 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 870 30 yy-93's_capital
+0
+0
+unknow yy-93 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 890 30 yy-94's_capital
+0
+0
+unknow yy-94 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 910 30 yy-95's_capital
+0
+0
+unknow yy-95 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 930 30 yy-96's_capital
+0
+0
+unknow yy-96 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 950 30 yy-97's_capital
+0
+0
+unknow yy-97 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 970 30 yy-98's_capital
+0
+0
+unknow yy-98 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 990 30 yy-99's_capital
+0
+0
+unknow yy-99 dfshjsduewisda433425)(A*D&DS)
+0 50

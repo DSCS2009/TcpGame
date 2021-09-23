@@ -1,0 +1,746 @@
+149
+100 1 30 10 1's_capital
+0
+0
+unknow 1 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 570 10 10's_capital
+0
+0
+unknow 10 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 630 10 11's_capital
+0
+0
+unknow 11 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 690 10 12's_capital
+0
+0
+unknow 12 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 750 10 13's_capital
+0
+0
+unknow 13 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 810 10 14's_capital
+0
+0
+unknow 14 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 870 10 15's_capital
+0
+0
+unknow 15 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 930 10 16's_capital
+0
+0
+unknow 16 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 990 10 17's_capital
+0
+0
+unknow 17 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 30 18's_capital
+0
+0
+unknow 18 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 30 19's_capital
+0
+0
+unknow 19 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 10 2's_capital
+0
+0
+unknow 2 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 170 30 20's_capital
+0
+0
+unknow 20 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 230 30 21's_capital
+0
+0
+unknow 21 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 290 30 22's_capital
+0
+0
+unknow 22 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 350 30 23's_capital
+0
+0
+unknow 23 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 410 30 24's_capital
+0
+0
+unknow 24 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 470 30 25's_capital
+0
+0
+unknow 25 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 530 30 26's_capital
+0
+0
+unknow 26 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 590 30 27's_capital
+0
+0
+unknow 27 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 650 30 28's_capital
+0
+0
+unknow 28 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 710 30 29's_capital
+0
+0
+unknow 29 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 150 10 3's_capital
+0
+0
+unknow 3 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 770 30 30's_capital
+0
+0
+unknow 30 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 830 30 31's_capital
+0
+0
+unknow 31 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 890 30 32's_capital
+0
+0
+unknow 32 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 950 30 33's_capital
+0
+0
+unknow 33 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 10 50 34's_capital
+0
+0
+unknow 34 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 50 35's_capital
+0
+0
+unknow 35 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 130 50 36's_capital
+0
+0
+unknow 36 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 190 50 37's_capital
+0
+0
+unknow 37 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 250 50 38's_capital
+0
+0
+unknow 38 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 310 50 39's_capital
+0
+0
+unknow 39 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 210 10 4's_capital
+0
+0
+unknow 4 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 370 50 40's_capital
+0
+0
+unknow 40 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 430 50 41's_capital
+0
+0
+unknow 41 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 490 50 42's_capital
+0
+0
+unknow 42 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 550 50 43's_capital
+0
+0
+unknow 43 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 610 50 44's_capital
+0
+0
+unknow 44 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 670 50 45's_capital
+0
+0
+unknow 45 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 730 50 46's_capital
+0
+0
+unknow 46 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 790 50 47's_capital
+0
+0
+unknow 47 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 850 50 48's_capital
+0
+0
+unknow 48 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 910 50 49's_capital
+0
+0
+unknow 49 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 270 10 5's_capital
+0
+0
+unknow 5 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 970 50 50's_capital
+0
+0
+unknow 50 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 330 10 6's_capital
+0
+0
+unknow 6 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 390 10 7's_capital
+0
+0
+unknow 7 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 450 10 8's_capital
+0
+0
+unknow 8 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 510 10 9's_capital
+0
+0
+unknow 9 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 10 Aiden's_capital
+0
+0
+unknow Aiden dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 190 30 Alexande's_capital
+0
+0
+unknow Alexande dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 590 10 Andrew's_capital
+0
+0
+unknow Andrew dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 330 50 Anthony's_capital
+0
+0
+unknow Anthony dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 30 50 Austin's_capital
+0
+0
+unknow Austin dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 730 30 Benjamin's_capital
+0
+0
+unknow Benjamin dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 150 50 Brandon's_capital
+0
+0
+unknow Brandon dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 310 30 Brayden's_capital
+0
+0
+unknow Brayden dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 650 10 Caden's_capital
+0
+0
+unknow Caden dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 30 Caleb's_capital
+0
+0
+unknow Caleb dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 50 Cameron's_capital
+0
+0
+unknow Cameron dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 390 50 Christian's_capital
+0
+0
+unknow Christian dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 790 30 Christopher's_capital
+0
+0
+unknow Christopher dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 950 10 Connor's_capital
+0
+0
+unknow Connor dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 670 30 Daniel's_capital
+0
+0
+unknow Daniel dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 570 50 David's_capital
+0
+0
+unknow David dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 770 10 Dylan's_capital
+0
+0
+unknow Dylan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 930 50 Elijah's_capital
+0
+0
+unknow Elijah dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 170 10 Ethan's_capital
+0
+0
+unknow Ethan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 970 30 Evan's_capital
+0
+0
+unknow Evan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 450 50 Gabriel's_capital
+0
+0
+unknow Gabriel dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 910 30 Gavin's_capital
+0
+0
+unknow Gavin dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 870 50 Hunter's_capital
+0
+0
+unknow Hunter dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 270 30 JACK之子's_capital
+0
+0
+unknow JACK之子 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 350 10 Jack's_capital
+0
+0
+unknow Jack dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 250 30 Jackson's_capital
+0
+0
+unknow Jackson dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 10 Jacob's_capital
+0
+0
+unknow Jacob dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 830 10 Jaden's_capital
+0
+0
+unknow Jaden dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 850 30 James's_capital
+0
+0
+unknow James dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 630 50 John's_capital
+0
+0
+unknow John dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 690 50 Jonathan's_capital
+0
+0
+unknow Jonathan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 550 30 Joseph's_capital
+0
+0
+unknow Joseph dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 410 10 Joshua's_capital
+0
+0
+unknow Joshua dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 610 30 Justin's_capital
+0
+0
+unknow Justin dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 10 30 Logan's_capital
+0
+0
+unknow Logan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 370 30 Lucas's_capital
+0
+0
+unknow Lucas dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 270 50 Luke's_capital
+0
+0
+unknow Luke dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 210 50 Mason's_capital
+0
+0
+unknow Mason dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 230 10 Matthew's_capital
+0
+0
+unknow Matthew dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 470 10 Michael's_capital
+0
+0
+unknow Michael dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 490 30 Nathan's_capital
+0
+0
+unknow Nathan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 290 10 Nicholas's_capital
+0
+0
+unknow Nicholas dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 130 30 Noah's_capital
+0
+0
+unknow Noah dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 510 50 Owen's_capital
+0
+0
+unknow Owen dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 530 10 Ryan's_capital
+0
+0
+unknow Ryan dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 750 50 Samuel's_capital
+0
+0
+unknow Samuel dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 810 50 Sean's_capital
+0
+0
+unknow Sean dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 990 50 Thomas's_capital
+0
+0
+unknow Thomas dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 710 10 Tyler's_capital
+0
+0
+unknow Tyler dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 430 30 William's_capital
+0
+0
+unknow William dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 890 10 Zachary's_capital
+0
+0
+unknow Zachary dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 930 30 阿瑟王的武士's_capital
+0
+0
+unknow 阿瑟王的武士 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 970 10 爱狼者's_capital
+0
+0
+unknow 爱狼者 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 810 30 背基督的人's_capital
+0
+0
+unknow 背基督的人 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 790 10 传说的海上英雄's_capital
+0
+0
+unknow 传说的海上英雄 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 390 30 带来光的人's_capital
+0
+0
+unknow 带来光的人 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 850 10 感恩的，绿石's_capital
+0
+0
+unknow 感恩的，绿石 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 290 50 光明's_capital
+0
+0
+unknow 光明 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 330 30 广阔的草地's_capital
+0
+0
+unknow 广阔的草地 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 70 10 火热的，热烈的's_capital
+0
+0
+unknow 火热的，热烈的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 410 50 基督追随者's_capital
+0
+0
+unknow 基督追随者 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 190 10 坚定的，有力的's_capital
+0
+0
+unknow 坚定的，有力的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 450 30 坚定的卫士's_capital
+0
+0
+unknow 坚定的卫士 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 170 50 剑's_capital
+0
+0
+unknow 剑 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 950 50 杰出，上帝吾主's_capital
+0
+0
+unknow 杰出，上帝吾主 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 590 50 可爱的's_capital
+0
+0
+unknow 可爱的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 890 50 猎手's_capital
+0
+0
+unknow 猎手 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 10 70 孪生子's_capital
+0
+0
+unknow 孪生子 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 750 30 南方之子's_capital
+0
+0
+unknow 南方之子 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 610 10 男子气的's_capital
+0
+0
+unknow 男子气的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 530 50 年轻的勇士's_capital
+0
+0
+unknow 年轻的勇士 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 210 30 人类的卫士's_capital
+0
+0
+unknow 人类的卫士 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 310 10 人民的胜利's_capital
+0
+0
+unknow 人民的胜利 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 250 10 上帝的礼物's_capital
+0
+0
+unknow 上帝的礼物 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 570 30 上帝将再赐子's_capital
+0
+0
+unknow 上帝将再赐子 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 370 10 上帝是尊贵的's_capital
+0
+0
+unknow 上帝是尊贵的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 650 50 上帝尊贵's_capital
+0
+0
+unknow 上帝尊贵 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 470 50 神是吾力's_capital
+0
+0
+unknow 神是吾力 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 690 30 神为吾法's_capital
+0
+0
+unknow 神为吾法 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 490 10 神一般的's_capital
+0
+0
+unknow 神一般的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 510 30 施予者's_capital
+0
+0
+unknow 施予者 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 230 50 石匠's_capital
+0
+0
+unknow 石匠 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 770 50 太阳的侍从's_capital
+0
+0
+unknow 太阳的侍从 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 870 30 替代者，替补者's_capital
+0
+0
+unknow 替代者，替补者 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 710 50 天神赐予's_capital
+0
+0
+unknow 天神赐予 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 430 10 天神的拯救's_capital
+0
+0
+unknow 天神的拯救 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 910 10 天神铭记的's_capital
+0
+0
+unknow 天神铭记的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 830 50 天神仁慈's_capital
+0
+0
+unknow 天神仁慈 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 990 30 天神尊贵优雅's_capital
+0
+0
+unknow 天神尊贵优雅 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 110 50 歪鼻子's_capital
+0
+0
+unknow 歪鼻子 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 350 50 无价的，珍贵的's_capital
+0
+0
+unknow 无价的，珍贵的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 30 30 小洞，凹地's_capital
+0
+0
+unknow 小洞，凹地 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 550 10 小国王's_capital
+0
+0
+unknow 小国王 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 150 30 休闲的，舒适的's_capital
+0
+0
+unknow 休闲的，舒适的 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 670 10 战斗's_capital
+0
+0
+unknow 战斗 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 630 30 正义，法律's_capital
+0
+0
+unknow 正义，法律 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 50 50 至高尊严's_capital
+0
+0
+unknow 至高尊严 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 730 10 制砖瓦的人's_capital
+0
+0
+unknow 制砖瓦的人 dfshjsduewisda433425)(A*D&DS)
+0 50
+100 1 90 30 忠诚的，勇猛的's_capital
+0
+0
+unknow 忠诚的，勇猛的 dfshjsduewisda433425)(A*D&DS)
+0 50

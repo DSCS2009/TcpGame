@@ -1,0 +1,45 @@
+# Project: Game_Server
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+RES      = bin/Game_Server_private.res
+OBJ      = bin/Game.o bin/Server.o bin/XTcp.o bin/AutoAi.o bin/File.o $(RES)
+LINKOBJ  = bin/Game.o bin/Server.o bin/XTcp.o bin/AutoAi.o bin/File.o $(RES)
+LIBS     = -L"E:/Dev-Cpp/MinGW/lib" -L"E:/Dev-Cpp/MinGW/x86_64-w64-mingw32/lib" -static-libstdc++ -static-libgcc -lwsock32 -pg -g3
+INCS     = -I"E:/Dev-Cpp/MinGW/include" -I"E:/Dev-Cpp/MinGW/x86_64-w64-mingw32/include" -I"E:/Dev-Cpp/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"E:/Dev-Cpp/MinGW/include" -I"E:/Dev-Cpp/MinGW/x86_64-w64-mingw32/include" -I"E:/Dev-Cpp/MinGW/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+BIN      = bin/Game_Server.exe
+CXXFLAGS = $(CXXINCS) -ansi -traditional-cpp -Ofast -w -pg -g3 -std=c++14
+CFLAGS   = $(INCS) -ansi -traditional-cpp -Ofast -w -pg -g3
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+bin/Game.o: Game.cpp
+	$(CPP) -c Game.cpp -o bin/Game.o $(CXXFLAGS)
+
+bin/Server.o: Server.cpp
+	$(CPP) -c Server.cpp -o bin/Server.o $(CXXFLAGS)
+
+bin/XTcp.o: XTcp.cpp
+	$(CPP) -c XTcp.cpp -o bin/XTcp.o $(CXXFLAGS)
+
+bin/AutoAi.o: AutoAi.cpp
+	$(CPP) -c AutoAi.cpp -o bin/AutoAi.o $(CXXFLAGS)
+
+bin/File.o: File.cpp
+	$(CPP) -c File.cpp -o bin/File.o $(CXXFLAGS)
+
+bin/Game_Server_private.res: Game_Server_private.rc 
+	$(WINDRES) -i Game_Server_private.rc --input-format=rc -o bin/Game_Server_private.res -O coff 
+

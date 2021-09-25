@@ -1,0 +1,41 @@
+/* THIS FILE WILL BE OVERWRITTEN BY DEV-C++ */
+/* DO NOT EDIT! */
+
+#include <windows.h> // include for version info constants
+
+
+//
+// SUPPORT FOR WINDOWS XP THEMES:
+// THIS WILL MAKE THE PROGRAM USE THE COMMON CONTROLS
+// LIBRARY VERSION 6.0 (IF IT IS AVAILABLE)
+//
+1 24 "Game_Server.exe.Manifest"
+
+//
+// TO CHANGE VERSION INFORMATION, EDIT PROJECT OPTIONS...
+//
+1 VERSIONINFO
+FILEVERSION -1,1,4,1
+PRODUCTVERSION -1,1,4,1
+FILETYPE VFT_APP
+{
+  BLOCK "StringFileInfo"
+  {
+    BLOCK "080404E4"
+    {
+      VALUE "CompanyName", ""
+      VALUE "FileVersion", "-1.1.4.1"
+      VALUE "FileDescription", "Developed using the Dev-C++ IDE"
+      VALUE "InternalName", ""
+      VALUE "LegalCopyright", ""
+      VALUE "LegalTrademarks", ""
+      VALUE "OriginalFilename", ""
+      VALUE "ProductName", ""
+      VALUE "ProductVersion", "-1.1.4.1"
+    }
+  }
+  BLOCK "VarFileInfo"
+  {
+    VALUE "Translation", 0x0804, 1252
+  }
+}
